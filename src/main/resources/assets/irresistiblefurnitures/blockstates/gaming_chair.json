@@ -1,0 +1,9 @@
+
+{
+  "variants": {
+    "facing=north": { "model": "irresistiblefurnitures:block/gaming_chair" },
+    "facing=east": { "model": "irresistiblefurnitures:block/gaming_chair", "y": 90 },
+    "facing=south": { "model": "irresistiblefurnitures:block/gaming_chair", "y": 180 },
+    "facing=west": { "model": "irresistiblefurnitures:block/gaming_chair", "y": 270 }
+  }
+}
